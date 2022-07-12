@@ -13,6 +13,9 @@ Saat Ini Versi 0.1, Tool Premium Free! [WHAT?] apa yang bisa dilakukan oleh tool
 
 (6) Sadap/Spy Chat WhatsApp Menggunakan Jasa Admin Register 
 
+tool ini bagus disaat anda mengalami penipuan atau terror
+atau hanya sekedar iseng, curiga kepada pasangan atau hanya cek validasi nomor.
+
 # screenshot
 
 berikut jika menggunakan sadap whatsapp register
