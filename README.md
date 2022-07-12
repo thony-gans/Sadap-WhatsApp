@@ -14,6 +14,8 @@ Saat Ini Versi 0.1, Tool Premium Free! [WHAT?] apa yang bisa dilakukan oleh tool
 (6) Sadap/Spy Chat WhatsApp Menggunakan Jasa Admin Register 
 
 # screenshot
+
+berikut jika menggunakan sadap whatsapp register
 <img src="sadapwa.PNG" alt="linux" style="width:400px;height:600px"/>
 
 # Tutorial Nya Check
