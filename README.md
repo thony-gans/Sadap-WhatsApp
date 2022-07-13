@@ -18,7 +18,11 @@ atau hanya sekedar iseng, curiga kepada pasangan atau hanya cek validasi nomor.
 
 # screenshot
 
-berikut jika menggunakan sadap whatsapp register
+berikut tampilan track nomor
+
+<img src="watrack.PNG" alt="linux" style="width:400px;height:600px"/>
+
+berikut tampilan sadap whatsapp register
 
 <img src="sadapwa.PNG" alt="linux" style="width:400px;height:600px"/>
 
