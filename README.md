@@ -1,6 +1,13 @@
 # Sadap-WhatsApp
 Saat Ini Versi 0.1, Tool Premium Free! [WHAT?] apa yang bisa dilakukan oleh tools Untuk Hack Nomor WhatsApp ini.
 
+-----------------------------------------
+Yuk BerSedekah : 
+<a href="https://adsafelink.com/F5Smwr4kz">
+<button type="submit">DONASI</button><br>
+
+-----------------------------------------
+
 (1) Mengambil Informasi Nomor Telepon Seluler WhatsApp
 
 (2) Menemukan Nomor yang Bocor Pada Media Sosial Mereka
@@ -50,5 +57,6 @@ Jalankan Script : ./keys.sh
 
 ================================================================
 
-<input type="image" src="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Logo-YouTube.jpg" alt="tombol">
-
+Channel :
+<a href="https://adsafelink.com/TN1m5Xu">
+<button type="submit">YouTube</button>
