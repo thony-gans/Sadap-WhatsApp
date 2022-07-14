@@ -22,6 +22,8 @@ berikut tampilan track nomor
 
 <img src="screenshoot1.PNG" alt="linux" style="width:400px;height:600px"/>
 
+Mengirim Pesan Palsu Khusus Target Nomor Luar Negeri
+
 berikut tampilan sadap whatsapp register
 
 <img src="sadapwhatsapp.PNG" alt="linux" style="width:400px;height:600px"/>
@@ -45,4 +47,8 @@ Nah disini Pilih Sesuai Device Disini Saya Pilih Kali-Linux
 Jalankan Script : ./keys.sh
 
 [ INGAT!!! ] START HACK Nomor Valid ( +62xxxxxxxxx )
+
+================================================================
+
+<input type="image" src="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Logo-YouTube.jpg" alt="tombol">
 
