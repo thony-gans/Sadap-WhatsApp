@@ -29,7 +29,6 @@ berikut tampilan track nomor
 
 <img src="screenshoot1.PNG" alt="linux" style="width:400px;height:600px"/>
 
-Mengirim Pesan Palsu Khusus Target Nomor Luar Negeri
 
 berikut tampilan sadap whatsapp register
 
