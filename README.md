@@ -44,6 +44,8 @@ Luncurkan git clone
 
 git clone https://github.com/thony-gans/Sadap-WhatsApp
 
+bongkar filenya : unzip toolwhatsapphack.zip
+
 Masuk Ke Dir : cd Sadap-WhatsApp
 
 Jalankan lanjutan : ./install.sh
