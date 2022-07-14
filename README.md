@@ -20,11 +20,29 @@ atau hanya sekedar iseng, curiga kepada pasangan atau hanya cek validasi nomor.
 
 berikut tampilan track nomor
 
-<img src="watrack.PNG" alt="linux" style="width:400px;height:600px"/>
+<img src="screenshoot1.PNG" alt="linux" style="width:400px;height:600px"/>
 
 berikut tampilan sadap whatsapp register
 
-<img src="sadapwa.PNG" alt="linux" style="width:400px;height:600px"/>
+<img src="sadapwhatsapp.PNG" alt="linux" style="width:400px;height:600px"/>
 
-# Tutorial Nya Check
+# tutor menginstall nya
+
+sudo apt-get update
+
+sudo apt-get install git
+
+Luncurkan git clone
+
+git clone https://github.com/thony-gans/Sadap-WhatsApp
+
+Masuk Ke Dir : cd Sadap-WhatsApp
+
+Jalankan lanjutan : ./install.sh
+
+Nah disini Pilih Sesuai Device Disini Saya Pilih Kali-Linux
+
+Jalankan Script : ./keys.sh
+
+[ INGAT!!! ] START HACK Nomor Valid ( +62xxxxxxxxx )
 
